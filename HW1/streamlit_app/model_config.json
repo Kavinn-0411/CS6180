@@ -1,0 +1,6 @@
+{
+  "model_name": "MobileNet-FT",
+  "input_scale": 255.0,
+  "test_acc": 0.77,
+  "n_rounds": 10
+}
